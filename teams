@@ -1,0 +1,646 @@
+0|Kansas|4|34
+1|Northern Colo.|21|31
+2|Michigan St.|5|34
+3|Fla. Atlantic|25|33
+4|Villanova|5|34
+5|Fairleigh Dickinson|14|32
+6|Virginia|7|33
+7|Morgan St.|22|31
+8|Xavier|5|32
+9|Miami (OH)|20|33
+10|North Carolina|6|34
+11|Temple|11|32
+12|Oregon|6|34
+13|Jackson St.|15|34
+14|West Virginia|8|34
+15|Northern Ky.|21|30
+16|Indiana|7|32
+17|Eastern Ill.|17|30
+18|Miami (FL)|7|32
+19|Texas-Rio Grande Valley|22|30
+20|Utah|8|34
+21|Southern Utah|24|30
+22|Purdue|8|34
+23|N.C. A&amp;T|22|32
+24|Louisville|8|31
+25|Samford|19|33
+26|Arizona|8|33
+27|Pacific|20|28
+28|Kentucky|8|34
+29|Albany (NY)|8|32
+30|Texas A&amp;M|8|34
+31|S.C. Upstate|22|32
+32|Maryland|8|33
+33|Mt. St. Mary's|19|33
+34|Duke|10|33
+35|Siena|12|33
+36|Iowa|10|31
+37|Gardner-Webb|16|33
+38|Iowa St.|11|32
+39|Colorado|11|33
+40|Baylor|11|33
+41|Stephen F. Austin|5|32
+42|Washington|14|32
+43|Texas|12|32
+44|Cal|10|33
+45|Rice|20|32
+46|Abilene Christian|18|31
+47|University of the Southwest|1|1
+48|Alabama|14|32
+49|Kennesaw St.|20|31
+50|Sacramento St.|17|31
+51|Arizona St.|17|32
+52|Arkansas|16|32
+53|Southern U.|12|34
+54|Army|13|32
+55|Ferrum|2|2
+56|Auburn|20|31
+57|UAB|6|32
+58|Bethune-Cookman|18|32
+59|Trinity (FL)|1|1
+60|Northeastern|15|33
+61|Boston U.|14|32
+62|Bradley|27|32
+63|Ball St.|13|32
+64|BYU|10|33
+65|Utah Valley|18|30
+66|Bucknell|13|30
+67|Shenandoah|1|1
+68|Buffalo|14|34
+69|Pitt.-Bradford|1|1
+70|North Dakota St.|13|33
+71|UC-Davis|19|30
+72|UC-Irvine|9|34
+73|UC-San Diego|1|1
+74|Campbell|18|30
+75|Montreat|3|3
+76|Hartford|23|33
+77|Central Conn. St.|25|29
+78|Central Mich.|15|32
+79|Jacksonville St.|23|31
+80|Elon|16|32
+81|Charlotte|19|33
+82|Chicago St.|28|32
+83|Illinois Tech|1|1
+84|Cincinnati|10|32
+85|Western Caro.|17|33
+86|Clemson|14|31
+87|N.C. Central|19|32
+88|Nevada|13|32
+89|Coastal Caro.|11|29
+90|Col. of Charleston|14|31
+91|South Carolina St.|14|33
+92|Columbia|10|31
+93|Kean|2|2
+94|Connecticut|10|34
+95|Maine|22|30
+96|Dayton|7|32
+97|Southeast Mo. St.|24|29
+98|Delaware|23|30
+99|Delaware St.|25|32
+100|Milwaukee|13|33
+101|Denver|15|31
+102|Drake|24|31
+103|Simpson|2|2
+104|Duquesne|16|32
+105|Seton Hill|1|1
+106|East Carolina|20|32
+107|Grambling|24|31
+108|Eastern Ky.|16|31
+109|Coppin St.|22|31
+110|Eastern Mich.|15|33
+111|Vermont|13|34
+112|Florida A&amp;M|21|29
+113|Johnson|1|1
+114|FIU|19|32
+115|Trinity Baptist|4|4
+116|Fresno St.|9|34
+117|Pepperdine|13|31
+118|Furman|15|33
+119|Presbyterian|20|31
+120|Colgate|17|30
+121|George Mason|21|32
+122|George Washington|10|33
+123|Lafayette|24|30
+124|Chattanooga|5|34
+125|Georgia|13|32
+126|Ga. Southern|17|31
+127|Webber|3|3
+128|Georgia St.|14|30
+129|Middle Georgia State|2|2
+130|Georgia Tech|14|33
+131|Cornell|18|28
+132|Grand Canyon|6|31
+133|Portland St.|18|31
+134|Harvard|16|30
+135|MIT|1|1
+136|Hawaii|5|32
+137|Montana St.|17|31
+138|Hofstra|9|33
+139|Canisius|19|33
+140|Idaho St.|15|31
+141|Great Falls|5|5
+142|North Florida|11|33
+143|Illinois|19|34
+144|San Francisco|15|30
+145|Ill.-Chicago|25|30
+146|Incarnate Word|12|29
+147|Texas Lutheran|2|2
+148|IUPUI|19|32
+149|Indiana St.|17|32
+150|Kansas St.|16|33
+151|Md.-East. Shore|22|32
+152|Lamar|19|30
+153|Austin|1|1
+154|Liberty|19|32
+155|Covenant|1|1
+156|Longwood|23|33
+157|Randolph|1|1
+158|La.-Lafayette|14|31
+159|Louisiana Col.|4|5
+160|La.-Monroe|13|33
+161|McMurry|1|1
+162|LSU|14|33
+163|McNeese St.|20|29
+164|Louisiana Tech|9|32
+165|Millsaps|1|1
+166|Loyola (IL)|17|32
+167|UTSA|27|32
+168|Loyola Marymount|17|31
+169|Cal St. Fullerton|20|30
+170|Tennessee St.|10|30
+171|Loyola Maryland|21|30
+172|Holy Cross|19|33
+173|Marist|23|30
+174|Belmont|11|31
+175|Marquette|13|33
+176|Mercer|14|33
+177|Allen|5|5
+178|Michigan|12|34
+179|Northern Mich.|1|1
+180|Minnesota|23|31
+181|UMKC|19|31
+182|Mississippi|12|32
+183|Northwestern St.|20|28
+184|Mississippi St.|17|31
+185|Eastern Wash.|15|32
+186|Missouri|21|31
+187|Wofford|17|32
+188|Montana|11|32
+189|Boise St.|12|32
+190|Morehead St.|12|31
+191|Cincinnati Christian|1|1
+192|Murray St.|14|31
+193|Harris-Stowe|3|3
+194|Florida|14|33
+195|Navy|14|33
+196|UC-Santa Barbara|13|31
+197|Neb.-Omaha|13|31
+198|UNLV|15|33
+199|Cal Poly|20|30
+200|New Hampshire|12|31
+201|Lyndon St.|1|1
+202|New Mexico|15|32
+203|Texas Southern|14|32
+204|New Mexico St.|10|33
+205|Houston Baptist|16|33
+206|William &amp; Mary|11|31
+207|North Carolina St.|17|33
+208|UNC Wilmington|7|32
+209|Milligan|2|2
+210|North Dakota|15|32
+211|Minn.-Morris|1|1
+212|North Texas|20|32
+213|Jarvis Christian|3|3
+214|Northern Ill.|12|33
+215|Cal St. Northridge|20|30
+216|Northwestern|12|32
+217|Mass.-Lowell|18|29
+218|Notre Dame|11|32
+219|St. Francis (PA)|17|30
+220|Oklahoma St.|20|32
+221|UT Martin|14|33
+222|Old Dominion|13|35
+223|Niagara|25|32
+224|Oral Roberts|17|31
+225|Missouri St.|19|32
+226|Penn|17|28
+227|Robert Morris|22|32
+228|Portland|20|32
+229|Oregon Tech|1|1
+230|Rhode Island|15|32
+231|American|19|31
+232|James Madison|11|32
+233|Richmond|16|32
+234|Princeton|6|28
+235|Rider|20|33
+236|Rutgers|25|32
+237|Rutgers-Newark|1|1
+238|Sacred Heart|18|30
+239|Quinnipiac|21|30
+240|St. Joseph's|7|34
+241|Drexel|25|31
+242|St. Mary's (CA)|5|32
+243|San Fran. St.|1|1
+244|St. Peter's|16|30
+245|Brown|20|28
+246|San Diego St.|9|34
+247|Illinois St.|14|32
+248|Lipscomb|21|33
+249|Santa Clara|20|31
+250|Savannah St.|15|31
+251|Florida National|1|1
+252|Ark.-Pine Bluff|25|33
+253|Seattle|16|30
+254|Seton Hall|8|33
+255|Dartmouth|18|28
+256|South Ala.|19|33
+257|Auburn Montgomery|3|3
+258|South Dakota St.|7|33
+259|Chadron St.|1|1
+260|Troy|22|31
+261|South Fla.|25|33
+262|Southern California|12|33
+263|San Diego|21|30
+264|Southern Ill.|10|32
+265|Air Force|18|32
+266|SIU Edwardsville|22|28
+267|Arkansas St.|20|31
+268|St. Bonaventure|8|30
+269|Binghamton|22|30
+270|St. John's (NY)|24|32
+271|Wagner|10|32
+272|Stanford|15|30
+273|Green Bay|12|35
+274|Syracuse|13|32
+275|Lehigh|15|32
+276|Tennessee|19|34
+277|UNC Asheville|11|33
+278|A&amp;M-Corpus Christi|7|32
+279|Our Lady of the Lake|3|4
+280|TCU|21|33
+281|Southeastern La.|21|33
+282|Texas Tech|12|31
+283|High Point|10|31
+284|Alabama A&amp;M|18|29
+285|Tulane|22|34
+286|Monmouth|7|34
+287|UCLA|17|32
+288|Valparaiso|6|32
+289|IPFW|9|33
+290|Vanderbilt|13|32
+291|Austin Peay|17|35
+292|VCU|10|34
+293|Prairie View|24|31
+294|Wake Forest|20|31
+295|UMBC|25|32
+296|Washington St.|22|31
+297|Northern Ariz.|25|30
+298|Utah St.|15|31
+299|Weber St.|8|34
+300|Wichita St.|8|32
+301|Charleston So.|21|30
+302|Western Ill.|17|27
+303|Wisconsin|12|32
+304|Wright St.|13|35
+305|South Dakota|18|32
+306|Wyoming|18|32
+307|Bristol|2|2
+308|Yale|6|28
+309|Fairfield|13|32
+310|NJIT|14|31
+311|Bryant|23|31
+312|SMU|5|30
+313|Sam Houston St.|15|33
+314|Akron|8|34
+315|Cleveland St.|23|32
+316|Appalachian St.|22|31
+317|Jacksonville|16|32
+318|UALR|4|33
+319|Central Baptist|2|2
+320|Boston College|25|32
+321|St. Francis (NY)|17|32
+322|Bowling Green|18|34
+323|New Orleans|20|30
+324|Butler|10|31
+325|Citadel|22|32
+326|Cal St. Bakersfield|8|32
+327|San Diego Christian|5|5
+328|UC-Riverside|19|33
+329|William Jessup|1|1
+330|Creighton|14|32
+331|Davidson|12|32
+332|UCF|18|30
+333|DePaul|22|31
+334|Western Mich.|19|32
+335|East Tenn. St.|11|34
+336|Averett|1|1
+337|Radford|15|31
+338|Georgetown|18|33
+339|Kent St.|13|32
+340|Youngstown St.|21|32
+341|La Salle|22|31
+342|Towson|12|32
+343|Summit|2|2
+344|Long Beach St.|14|34
+345|BYU-Hawaii|1|1
+346|Eureka|2|2
+347|Massachusetts|18|32
+348|Howard|20|32
+349|Memphis|15|34
+350|Southern Miss.|21|29
+351|Mid-Atlantic Christian|2|2
+352|Hawaii Hilo|2|2
+353|Nebraska|18|34
+354|Mississippi Val.|27|35
+355|UNC Greensboro|18|32
+356|Greensboro|1|1
+357|Colorado St.|16|34
+358|UNI|12|34
+359|Ohio|11|32
+360|Fla. Gulf Coast|13|33
+361|Oregon St.|12|31
+362|Northwest Christian|1|1
+363|Penn St.|16|32
+364|VMI|21|30
+365|Providence|10|33
+366|Idaho|12|33
+367|San Jose St.|22|31
+368|South Carolina|8|32
+369|Norfolk St.|16|33
+370|Stony Brook|6|32
+371|Merchant Marine Academy|1|1
+372|Tennessee Tech|11|30
+373|Piedmont|4|4
+374|Texas-Arlington|10|33
+375|Fordham|13|30
+376|UTEP|14|33
+377|Loyola (LA)|4|4
+378|Toledo|15|32
+379|West Va. Tech|1|1
+380|Tulsa|11|31
+381|Central Ark.|21|28
+382|Alabama St.|17|31
+383|Virginia Tech|14|33
+384|Western Ky.|16|34
+385|Campbellsville|1|1
+386|Winthrop|9|32
+387|Hampton|10|31
+388|George Fox|1|1
+389|Evansville|9|34
+390|Florida St.|13|32
+391|Nicholls St.|23|34
+392|N.C. Wesleyan|2|2
+393|Fort Valley St.|3|3
+394|William Jewell|1|1
+395|St. Mary's (MN)|1|1
+396|Ohio St.|13|33
+397|Stetson|22|34
+398|St. Louis|21|32
+399|Reinhardt|3|3
+400|Iona|10|32
+401|Hannibal-LaGrange|3|3
+402|Hiram|1|1
+403|Lyon|1|1
+404|Hiwassee|4|4
+405|Detroit|15|31
+406|Central St. (OH)|1|1
+407|FDU-Florham|1|1
+408|Texas Wesleyan|1|1
+409|Florida Memorial|2|2
+410|Molloy|1|1
+411|Crowley's Ridge|1|1
+412|Dickinson State (ND)|1|1
+413|Schreiner|2|2
+414|Manchester|1|1
+415|Oakwood|2|2
+416|La Roche|1|1
+417|Long Island|15|31
+418|N.M. Highlands|2|2
+419|Texas College|1|1
+420|Louisiana State-Alexandria|1|2
+421|Pacific Lutheran|1|1
+422|Manhattan|18|31
+423|Voorhees|2|2
+424|Texas St.|16|31
+425|Texas-Tyler|1|1
+426|Oklahoma|7|32
+427|Howard Payne|3|3
+428|Alma|1|1
+429|Malone|1|1
+430|Marian|1|1
+431|Warner Southern|0|1
+432|Queens (NY)|1|1
+433|Black Hills State|1|1
+434|Oakland City|3|3
+435|Kenyon|1|1
+436|Middle Tenn.|9|33
+437|Washington Adventist|3|3
+438|Chowan|1|1
+439|Wentworth|1|1
+440|Colo. Christian|1|1
+441|Tiffin|1|1
+442|Pittsburgh|11|32
+443|St. Joseph's (IN)|1|1
+444|Westminster|1|1
+445|St. Thomas (TX)|2|2
+446|Mt. St. Vincent|1|1
+447|Adams St.|2|2
+448|Tusculum|1|1
+449|Truett-McConnell|1|1
+450|Centenary (LA)|2|2
+451|Emerson|1|1
+452|Cal St. Monterey Bay|1|1
+453|Vanguard|1|1
+454|Fresno Pacific|3|3
+455|Johnson &amp; Wales (NC)|4|4
+456|Indiana-Northwest|2|2
+457|Grace Bible|1|1
+458|Goldey-Beacom|2|2
+459|Belmont Abbey|2|2
+460|Thomas University|3|3
+461|Gonzaga|7|33
+462|Houston|9|31
+463|Mars Hill|2|2
+464|Roanoke|0|1
+465|Valley City State|2|2
+466|Edward Waters|1|1
+467|Oakland|11|32
+468|Toccoa Falls|3|3
+469|Catawba|1|1
+470|Mississippi Col.|1|1
+471|Fisk|2|2
+472|Indiana-Kokomo|3|3
+473|Emmanuel|1|1
+474|Alcorn St.|15|30
+475|Pensacola Christian|1|1
+476|Mobile|1|1
+477|Marshall|16|33
+478|Trinity Christian|2|2
+479|Antelope Valley|5|5
+480|Siena Heights|1|1
+481|Medgar Evers|1|1
+482|Florida College|1|1
+483|Trinity International (IL)|2|2
+484|Embry-Riddle|1|1
+485|Holy Names|3|3
+486|Tex. A&amp;M-Kingsville|1|1
+487|Union (TN)|1|1
+488|SUNY-Oneonta|1|1
+489|Linfield|1|1
+490|Kentucky St.|1|1
+491|Central Penn|6|6
+492|Carroll|2|2
+493|Bob Jones|2|3
+494|Emporia St.|1|1
+495|Minn. Duluth|1|1
+496|Goucher|1|1
+497|Louisiana State-Shreveport|2|2
+498|Chaminade|3|3
+499|Concordia (OR)|1|1
+500|Chestnut Hill|1|1
+501|Penn St.-Harrisburg|1|1
+502|Michigan-Dearborn|1|1
+503|Notre Dame (CA)|1|1
+504|William Carey|0|1
+505|St. Edward's|2|2
+506|Rochester (MI)|3|3
+507|Roosevelt|2|2
+508|East Mennonite|1|1
+509|Wheelock|1|1
+510|South Dakota School of Mines|1|1
+511|Dillard|2|2
+512|Cal St. L.A.|1|1
+513|Mt. St. Joseph|1|1
+514|Thomas More|1|1
+515|Marygrove|2|2
+516|Lincoln|1|1
+517|Dubuque|1|1
+518|Tabor College|1|1
+519|Gallaudet|1|1
+520|Thiel|1|1
+521|Alas. Anchorage|2|3
+522|Quincy|1|1
+523|William Woods|1|1
+524|Denison|1|1
+525|Madonna|1|1
+526|Multnomah|2|2
+527|Rowan|1|1
+528|Farmingdale St.|1|1
+529|Cincinnati-Clermont|1|1
+530|Staten Island|1|1
+531|Urbana|1|1
+532|Ave Maria|2|2
+533|Maine-Fort Kent|1|1
+534|Wiley|0|1
+535|Tex. Permian Basin|0|1
+536|Selma University|1|1
+537|Spring Hill|1|1
+538|Paul Quinn|1|1
+539|Cal St. Dom. Hills|1|1
+540|Waldorf|1|1
+541|Pacific Union|4|4
+542|Albion|1|1
+543|Willamette|1|1
+544|Fort Lewis|1|1
+545|Mercy|1|1
+546|Coker|1|1
+547|Bethesda University (CA)|3|3
+548|Wayne St. (NE)|1|1
+549|Silver Lake|1|1
+550|Master's|1|1
+551|Dallas Christian|1|1
+552|La Verne|1|1
+553|Warren Wilson|2|2
+554|Kentucky Christian|1|1
+555|Sul Ross St.|2|2
+556|Angelo St.|1|1
+557|Aquinas|1|1
+558|Biola|1|1
+559|Tennessee Wesleyan|2|2
+560|Worcester St.|1|1
+561|Henderson St.|1|1
+562|Ark.-Fort Smith|1|1
+563|York (NE)|2|2
+564|John Brown|1|1
+565|Utica|1|1
+566|Cumberland|1|1
+567|North Greenville|2|2
+568|Ark.-Monticello|1|1
+569|Hawaii Pacific|1|1
+570|Arlington Baptist|1|1
+571|Blue Mountain College|3|3
+572|Tampa|1|1
+573|Williams Baptist|1|1
+574|Coastal Georgia|1|1
+575|Arkansas Tech|1|1
+576|Wesley|1|1
+577|Virginia Wise|1|1
+578|Judson|2|2
+579|Ecclesia|2|2
+580|Columbia International|1|1
+581|St. Martin's|1|1
+582|Le Tourneau|1|1
+583|Ouachita|1|1
+584|Ohio Dominican|1|1
+585|Geneva|1|1
+586|Hardin-Simmons|1|1
+587|Bluefield College (VA)|1|1
+588|Ill.-Springfield|1|1
+589|Albany St. (GA)|1|1
+590|East Central|1|1
+591|Maryville (MO)|1|1
+592|Paine|1|1
+593|Northwest Indian College|1|1
+594|Chapman|1|1
+595|New Hope Christian|1|1
+596|Mary Washington|1|1
+597|Menlo|2|2
+598|Rockhurst|1|1
+599|Missouri Valley|1|1
+600|Ursinus|1|1
+601|Fisher College|1|1
+602|Life Pacific|2|2
+603|Wis.-Superior|1|1
+604|Rio Grande|2|2
+605|Johnson &amp; Wales|1|1
+606|Widener|1|1
+607|Purdue Calumet|1|1
+608|Montana Western|1|1
+609|College of Idaho|1|1
+610|Methodist|1|1
+611|Cairn|1|1
+612|Brescia|2|2
+613|Western Ore.|1|1
+614|Western St.|1|1
+615|St. Andrews|1|1
+616|Cedarville|1|1
+617|Regis|1|1
+618|Miles|1|1
+619|SE Okla. St.|1|1
+620|Hillsdale|2|2
+621|Westminster (MO)|1|1
+622|Trevecca Nazarene|1|1
+623|Arizona Christian|1|1
+624|Northland|1|1
+625|Francis Marion|1|1
+626|Lees-McRae|1|1
+627|Florida Tech|1|1
+628|Bridgewater (VA)|1|1
+629|Lourdes|1|1
+630|Cal St. East Bay|1|1
+631|Point Loma Nazarene|1|1
+632|Eckerd|1|1
+633|Purdue North Central|1|1
+634|Oberlin|1|1
+635|Boyce|1|1
+636|Daniel Webster|2|2
+637|Ryerson|1|1
+638|Pine Manor|1|1
+639|Bryn Athyn|1|1
+640|Cheyney|1|1
+641|St. Ambrose|1|1
+642|Northern New Mexico|1|1
+643|Bowie St.|1|1
+644|Benedictine|1|1
+645|St. Catharine|1|1
